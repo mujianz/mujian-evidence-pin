@@ -1,0 +1,11 @@
+{
+ "legs": [
+  "chain:self",
+  "github:zhushi-evidence-pin",
+  "ia(optional):web.archive.org"
+ ],
+ "live_root_tail": "79a8aa2663384c1e",
+ "n_files": 12,
+ "n_static": 8,
+ "static_root": "4eacc48ca103289bd52bde5eed7a0925"
+}
