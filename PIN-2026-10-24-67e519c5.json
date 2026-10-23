@@ -1,0 +1,12 @@
+{
+ "legs": [
+  "chain:self",
+  "github:mujianz/mujian-evidence-pin",
+  "mail189:witness",
+  "ia(optional):web.archive.org"
+ ],
+ "live_root_tail": "bcb00f6fb93ba9c9",
+ "n_files": 12,
+ "n_static": 8,
+ "static_root": "67e519c5f3c5382a81c14efb105ffefd"
+}
